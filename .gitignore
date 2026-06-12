@@ -34,4 +34,3 @@ Thumbs.db
 # ── Docker volumes (local dev) ─────────────────────��──────
 data/
 volumes/
-my-agent-deploy/

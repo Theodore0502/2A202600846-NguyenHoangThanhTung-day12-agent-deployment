@@ -1,5 +1,7 @@
 # Day 12 — Deployment: Đưa Agent Lên Cloud
 
+> **Sinh viên thực hiện:** Nguyễn Hoàng Thanh Tùng  
+> **Mã số sinh viên:** 2A202600846  
 > **AICB-P1 · VinUniversity 2026**  
 > Repository thực hành đi kèm bài giảng Day 12.  
 > Mỗi phần có ví dụ **cơ bản** (hiểu concept) và **chuyên sâu** (production-ready).

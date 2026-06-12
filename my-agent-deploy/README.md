@@ -1,5 +1,8 @@
 # Production-Ready AI Agent — Day 12 Assignment
 
+> **Sinh viên thực hiện:** Nguyễn Hoàng Thanh Tùng  
+> **Mã số sinh viên:** 2A202600846  
+
 Dự án này là bài nộp bài tập Day 12 môn **AICB-P1 · VinUniversity 2026**. Mã nguồn này triển khai một AI Agent được đóng gói chuẩn sản xuất (production-ready) bằng FastAPI và Docker, tích hợp đầy đủ tính năng bảo mật, kiểm soát chi phí, giám sát trạng thái và triển khai trực tiếp lên cloud Railway.
 
 ---
